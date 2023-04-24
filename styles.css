@@ -5,10 +5,11 @@ body{
 	font-size:16px;
 }
 .book-library{
-	margine:20px auto;
+	margine:10px auto;
 	background-color:#ffffff;
 	border-radius:5px;
-	box-shadow:0 4px 10px 0 rgba(0,0,0,0.2);
+	border-bottom: 1px solid white;
+	
 }
 h1{
 	background-color: #f1f1f1;
@@ -21,7 +22,7 @@ h1{
 	background-color:#f1f1f1;
 	padding:10px;
 	margine:10px;
-	border-bottom:1px solid #e6e6e6;
+	border-bottom:10px solid white;
 }
 .book h2 {
     margin: 10px;
